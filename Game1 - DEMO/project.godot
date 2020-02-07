@@ -16,7 +16,12 @@ _global_script_class_icons={
 [application]
 
 config/name="Game 1 - Demo"
+run/main_scene="res://SCENES/Main.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=800
 
 [rendering]
 
